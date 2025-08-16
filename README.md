@@ -21,3 +21,14 @@
 # 📊ㅣStatus
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jongye0l)
 ![Jongye0l's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jongye0l&show_icons=true&theme=radical)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
