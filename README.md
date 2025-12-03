@@ -21,7 +21,7 @@
 # 📊ㅣStatus
 ![Top Langs](https://github-reame-stats.jongyeol.kr/api/top-langs/?username=Jongye0l)
 ![Jongye0l's GitHub stats](https://github-reame-stats.jongyeol.kr/api?username=Jongye0l&show_icons=true&theme=radical)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?layout=compact&langs_count=16&username=Jongyeol)
+![Wakatime](https://github-reame-stats.jongyeol.kr/api/wakatime?layout=compact&langs_count=16&username=Jongyeol)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
